@@ -1,5 +1,5 @@
 CSS navbar: https://codepen.io/sorinbotirla/pen/QyoYgx
-CSS header: https://blog.hubspot.com/website/css-animation-examples
+CSS header: https://codepen.io/argyleink/pen/poEjvpd
 CSS button: https://codepen.io/thelaazyguy/pen/brryVq
 
 
