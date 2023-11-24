@@ -1,3 +1,10 @@
 CSS navbar: https://codepen.io/sorinbotirla/pen/QyoYgx
-
 CSS header: https://blog.hubspot.com/website/css-animation-examples
+CSS button: https://codepen.io/thelaazyguy/pen/brryVq
+
+
+
+Imagen bases de datos: https://www.flaticon.es/icono-gratis/bases-de-datos_5134601?term=bases+de+datos&page=1&position=4&origin=search&related_id=5134601
+Imagen usuario: https://www.flaticon.es/icono-gratis/datos-del-usuario_2115962?term=usuario&page=1&position=77&origin=search&related_id=2115962
+Imagen equipo: https://www.flaticon.com/free-icon/pc_2291988?term=computer&page=1&position=29&origin=search&related_id=2291988
+Imagen tecnico: https://www.flaticon.com/free-icon/technician_3678170?term=computer+technician&page=1&position=27&origin=search&related_id=3678170
